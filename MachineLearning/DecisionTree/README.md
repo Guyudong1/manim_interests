@@ -8,4 +8,8 @@
 ![例子介绍2](https://github.com/user-attachments/assets/dec7159a-0fe0-4c3e-95ca-cc0a3c7ab2d1)
 #### 4-Entropy:
 ![熵](https://github.com/user-attachments/assets/8d7ebfca-feb3-4f7b-840e-e1e1ad31c2cb)
+#### 5-ContitionalEntropy1:
+![条件熵1](https://github.com/user-attachments/assets/993c512a-4c66-47f6-b14f-0735f224e4a3)
+#### 6-ContitionalEntropy2:
+![条件熵2](https://github.com/user-attachments/assets/8e031bb5-36d8-46e6-8bba-ceaad23ffea9)
 ####
