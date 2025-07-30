@@ -12,4 +12,6 @@
 ![条件熵1](https://github.com/user-attachments/assets/993c512a-4c66-47f6-b14f-0735f224e4a3)
 #### 6-ContitionalEntropy2:
 ![条件熵2](https://github.com/user-attachments/assets/8e031bb5-36d8-46e6-8bba-ceaad23ffea9)
-####
+#### 7-InfromationGain：
+![信息增益](https://github.com/user-attachments/assets/6d1479d7-eaa7-475d-9bb5-106f6e63987b)
+#### 
