@@ -15,5 +15,5 @@
 #### 7-InfromationGain：
 ![信息增益](https://github.com/user-attachments/assets/6d1479d7-eaa7-475d-9bb5-106f6e63987b)
 #### 8-MakeTree：
-![信息增益](https://github.com/user-attachments/assets/8323f8ba-acce-4b79-a0dd-0202b98620cf)
+![构建决策树](https://github.com/user-attachments/assets/e7149515-4277-4997-b3e1-b6b6638b37fe)
 ####
