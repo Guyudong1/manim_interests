@@ -14,4 +14,6 @@
 ![条件熵2](https://github.com/user-attachments/assets/8e031bb5-36d8-46e6-8bba-ceaad23ffea9)
 #### 7-InfromationGain：
 ![信息增益](https://github.com/user-attachments/assets/6d1479d7-eaa7-475d-9bb5-106f6e63987b)
-#### 
+#### 8-MakeTree：
+![信息增益](https://github.com/user-attachments/assets/8323f8ba-acce-4b79-a0dd-0202b98620cf)
+####
