@@ -18,3 +18,4 @@
 ![构建决策树](https://github.com/user-attachments/assets/e7149515-4277-4997-b3e1-b6b6638b37fe)
 #### 9-3Equations：
 ![9 计算公式](https://github.com/user-attachments/assets/e7c7cdb2-a9c4-4548-9aa2-0c21097146e5)
+#### 10-Pruning：
