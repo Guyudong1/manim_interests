@@ -19,3 +19,5 @@
 #### 9-3Equations：
 ![9 计算公式](https://github.com/user-attachments/assets/e7c7cdb2-a9c4-4548-9aa2-0c21097146e5)
 #### 10-Pruning：
+![10 剪枝](https://github.com/user-attachments/assets/14029e4e-d2cb-40e7-8a89-d604a3c2f505)
+####
