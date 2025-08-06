@@ -8,5 +8,6 @@
 ![3 均方误差](https://github.com/user-attachments/assets/0d3bfca8-744a-4d8e-b38d-a388a25638a3)
 #### 4-LeastSquares：
 ![4 最小二乘](https://github.com/user-attachments/assets/e394ceec-e3db-475f-91aa-bb2bb583fee1)
+#### 5-GradientDescent：
+![5 梯度下降（lr=0 01）](https://github.com/user-attachments/assets/ac6238f5-1a9e-48e2-98cc-c788c9f821e8)
 #### 
-
