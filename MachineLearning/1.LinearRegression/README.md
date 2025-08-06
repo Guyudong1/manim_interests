@@ -7,5 +7,6 @@
 #### 3-intropro：
 ![3 介绍](https://github.com/user-attachments/assets/f965e7ab-e6b4-4447-8c13-b3dadbc085bc)
 #### 4-LeastSquares：
-https://github.com/user-attachments/assets/86e2ec2b-ff36-4895-8c87-328b290f5556
+![4 最小二乘](https://github.com/user-attachments/assets/e394ceec-e3db-475f-91aa-bb2bb583fee1)
 #### 
+
