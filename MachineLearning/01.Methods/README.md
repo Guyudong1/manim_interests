@@ -1,3 +1,4 @@
+### 模型训练方法（梯度下降）
 ### demos：
 #### 1.Begin：
 ![1 片头](https://github.com/user-attachments/assets/bdc61d80-fa7d-462a-a582-ecc5cb688eb1)
