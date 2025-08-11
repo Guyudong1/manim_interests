@@ -1,6 +1,6 @@
 ### demos：
 #### 1.Begin：
-
+![1 片头](https://github.com/user-attachments/assets/bdc61d80-fa7d-462a-a582-ecc5cb688eb1)
 #### 2.GD1：
 ![2 总介绍学习率](https://github.com/user-attachments/assets/33180088-96e8-419c-be17-488215f2e657)
 #### 3.GD2:
