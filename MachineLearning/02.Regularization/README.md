@@ -3,6 +3,7 @@
 #### 1.
 ![1 片头](https://github.com/user-attachments/assets/8d1c659f-f2e1-4cbd-902f-a6f1223780ff)
 #### 2.
-
+![2 误差](https://github.com/user-attachments/assets/6221c9a5-9de3-459e-9b24-281bc6503cd6)
 #### 3.
-
+![3 欠拟合过拟合](https://github.com/user-attachments/assets/6ae9fe9f-8d39-46f2-9a31-c44c89f617e5)
+#### 
