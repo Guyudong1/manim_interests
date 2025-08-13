@@ -11,3 +11,4 @@
 #### 5-GradientDescent：
 ![5 梯度下降（lr=0 01）](https://github.com/user-attachments/assets/ac6238f5-1a9e-48e2-98cc-c788c9f821e8)
 #### 
+![6 其他](https://github.com/user-attachments/assets/6dcf4d24-cf50-45a4-a7a1-05db3bf82508)
