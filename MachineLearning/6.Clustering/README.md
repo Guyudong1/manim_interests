@@ -1,7 +1,7 @@
 ### 聚类
 ### K-means/DBSCAN
 #### 1.Begin：
-![1 begin](https://github.com/user-attachments/assets/a3519dc0-16e8-4fda-8b5c-abc1bcea78af)
+![1 begin](https://github.com/user-attachments/assets/29abcd95-de8a-4878-84fa-8141de5335e6)
 #### 2.Intropro：
 ![2 intro](https://github.com/user-attachments/assets/040c222d-ea1b-4204-8503-24eeaa413b64)
 #### 3.K-means：
