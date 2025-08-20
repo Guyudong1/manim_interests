@@ -7,9 +7,5 @@
 #### 3.K-means：
 ![3 kmeans](https://github.com/user-attachments/assets/a92b4334-7281-48e5-b493-433edd81f0aa)
 #### 4.
-
-
-https://github.com/user-attachments/assets/9e6bee8e-b2f4-4e53-a8a9-8bbd91bea79b
-
-
+![4 DBSCAN](https://github.com/user-attachments/assets/18da66c1-176a-4325-8cf9-5e66ad44921a)
 #### 
