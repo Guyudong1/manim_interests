@@ -8,4 +8,8 @@
 ![3 kmeans](https://github.com/user-attachments/assets/a92b4334-7281-48e5-b493-433edd81f0aa)
 #### 4.
 
+
+https://github.com/user-attachments/assets/9e6bee8e-b2f4-4e53-a8a9-8bbd91bea79b
+
+
 #### 
