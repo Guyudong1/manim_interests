@@ -7,3 +7,5 @@
 #### 3:
 ![3 欠拟合过拟合](https://github.com/user-attachments/assets/6ae9fe9f-8d39-46f2-9a31-c44c89f617e5)
 #### 4:
+![4 总结](https://github.com/user-attachments/assets/52bb7867-c47c-4403-a4c5-e77d5c1f0c97)
+####
