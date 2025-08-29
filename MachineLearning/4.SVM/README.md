@@ -9,4 +9,4 @@
 ### 4-lagrangian:
 ![4 拉格朗日乘子](https://github.com/user-attachments/assets/de11bdaf-3e81-4372-8106-29ca17e095b3)
 ### 5-kernel:
-
+![5 核函数](https://github.com/user-attachments/assets/e05a90a4-7c93-4517-8499-cd845d9e601e)
