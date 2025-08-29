@@ -7,7 +7,6 @@
 ### 3-vector:
 ![3 向量](https://github.com/user-attachments/assets/d57f2e85-c474-4bb5-bf70-75abac0abada)
 ### 4-lagrangian:
-
+![4 拉格朗日乘子](https://github.com/user-attachments/assets/de11bdaf-3e81-4372-8106-29ca17e095b3)
 ### 5-kernel:
-
 
