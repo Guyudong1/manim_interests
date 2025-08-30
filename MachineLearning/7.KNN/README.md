@@ -5,4 +5,5 @@
 #### 2.intro:
 ![2 介绍gif](https://github.com/user-attachments/assets/f7a04ff5-2633-4efb-80cb-d18c8e61551d)
 #### 3.knn:
+![3 普通](https://github.com/user-attachments/assets/c16bb64e-9057-4992-bceb-2bfa8ec0adb2)
 #### 4.kd-tree:
