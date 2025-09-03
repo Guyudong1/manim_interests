@@ -7,3 +7,4 @@
 #### 3.bagging:
 ![3 bagging](https://github.com/user-attachments/assets/ad5a5f80-92e3-4858-a115-f85ef22b1d7a)
 #### 4.boosting:
+![4 boosting](https://github.com/user-attachments/assets/2d3166f7-1ae3-41c7-8d60-8a3de7ac190b)
