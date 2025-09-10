@@ -6,3 +6,5 @@
 ![2 介绍](https://github.com/user-attachments/assets/809a88d4-9619-47ef-b801-729c14dd8a9d)
 #### 3.main：
 ![3 主要](https://github.com/user-attachments/assets/51bb5923-82f8-4561-899e-b46cd63bba23)
+#### 4.example:
+![4 例题](https://github.com/user-attachments/assets/c8b77243-ee8c-4d50-b1a6-12f9a9ecc8f7)
